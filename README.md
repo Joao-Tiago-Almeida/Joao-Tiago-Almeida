@@ -41,6 +41,8 @@
   <img align="left" src="https://img.shields.io/badge/Numpy-1c1c1c?&logo=Numpy" />
   <img align="left" src="https://img.shields.io/badge/OpenCV-1c1c1c?&logo=OpenCV" />
   <img align="left" src="https://img.shields.io/badge/LaTex-1c1c1c?&logo=LaTex" />
+  <img align="left" src="https://img.shields.io/badge/Matplotlib-1c1c1c?&logo=Matplotlib" />
+  <img align="left" src="https://img.shields.io/badge/Seaborn-1c1c1c?&logo=Seaborn" />
 </p>
 <br/><br/>
 
