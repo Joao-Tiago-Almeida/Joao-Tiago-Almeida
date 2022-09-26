@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a paper submission to the [ACM/IEEE International Conference on Human-Robot Interaction](https://humanrobotinteraction.org/2023/) in March 13-16, 2023 Stockholm, SE
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 👯 I’m looking to collaborate on Explainable Artificial Intelligence (XAI)
-- 🤔 I’m looking for help with understanding how to multiply money with passing income
+- 🤔 I’m looking for help with understanding how to multiply money with passive income
 - 💬 Ask me about Engineer Degree/Study Abroad/Social Robotics
 - 📫 More about me: ![Resume_Joao_Almeida.pdf](https://github.com/Joao-Tiago-Almeida/Joao-Tiago-Almeida/files/9646948/Resume_Joao_Almeida.pdf)
 - 😄 Pronouns: He/His
@@ -56,5 +56,5 @@
 ---
 # Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joao-Tiago-Almeida&theme=shades-of-purple&border_radius=4.6&locale=de&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joao-Tiago-Almeida&theme=shades-of-purple&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=shades-of-purple)
