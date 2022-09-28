@@ -58,7 +58,7 @@
 # Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joao-Tiago-Almeida&theme=shades-of-purple&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=shades-of-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Tiago-Almeida&count_private=true&show_icons=true&theme=shades-of-purple)
 
 ---
 # Curriculum
