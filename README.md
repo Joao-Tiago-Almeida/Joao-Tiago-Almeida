@@ -12,10 +12,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "Hey Siri, tell me a fun fact about me, please."
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/Joao-Tiago-Almeida/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:joaotiago99@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+## Connect with me 🤗
+ 
+<a href="https://www.linkedin.com/in/Joao-Tiago-Almeida/">
+  <img align="left" alt="LinkedIn" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+</a>
+<a href="mailto:joaotiago99@gmail.com">
+  <img align="left" alt="email" width="21px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+</a>
 <br/><br/>
 
 ---
@@ -64,10 +68,7 @@
 # Vibing through
 
 
-![Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&count=20)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&width=300)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&unique={true|1|on|yes})
+![Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&count=3&width=1000)
 
 
 ---
