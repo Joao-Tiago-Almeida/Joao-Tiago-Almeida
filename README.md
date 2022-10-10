@@ -61,5 +61,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Tiago-Almeida&count_private=true&show_icons=true&theme=shades-of-purple)
 
 ---
+# Vibing through
+
+
+![Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&count=20)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&width=300)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u_melhor&unique={true|1|on|yes})
+
+
+---
 # Curriculum
 ![Resume_Joao_Almeida.pdf](https://github.com/Joao-Tiago-Almeida/Joao-Tiago-Almeida/files/9646948/Resume_Joao_Almeida.pdf)
