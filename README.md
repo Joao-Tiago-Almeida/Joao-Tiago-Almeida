@@ -36,17 +36,17 @@
 ### Data Science Libraries & Frameworks
 
 <p>
-  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&logo=TensorFlow" />
   <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
-  <img align="left" src="https://img.shields.io/badge/git-1c1c1c?&logo=Git" />
-  <img align="left" src="https://img.shields.io/badge/JSON-1c1c1c?&logo=JSON" />
   <img align="left" src="https://img.shields.io/badge/Pandas-1c1c1c?&logo=Pandas" />
   <img align="left" src="https://img.shields.io/badge/Numpy-1c1c1c?&logo=Numpy" />
-  <img align="left" src="https://img.shields.io/badge/OpenCV-1c1c1c?&logo=OpenCV" />
-  <img align="left" src="https://img.shields.io/badge/LaTex-1c1c1c?&logo=LaTex" />
   <img align="left" src="https://img.shields.io/badge/Matplotlib-1c1c1c?&logo=Matplotlib" />
   <img align="left" src="https://img.shields.io/badge/Seaborn-1c1c1c?&logo=Seaborn" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/git-1c1c1c?&logo=Git" />
+  <img align="left" src="https://img.shields.io/badge/JSON-1c1c1c?&logo=JSON" />
 </p>
+  <img align="left" src="https://img.shields.io/badge/OpenCV-1c1c1c?&logo=OpenCV" />
+  <img align="left" src="https://img.shields.io/badge/LaTex-1c1c1c?&logo=LaTex" />
 <br/><br/>
 
 ### Devices
@@ -73,4 +73,4 @@
 
 ---
 # Curriculum
-![Resume_Joao_Almeida.pdf](https://github.com/Joao-Tiago-Almeida/Joao-Tiago-Almeida/files/9646948/Resume_Joao_Almeida.pdf)
+![Resume_Joao_Almeida.pdf](https://github.com/Joao-Tiago-Almeida/Joao-Tiago-Almeida/files/10219962/Resume_Joao_Almeida.pdf)
